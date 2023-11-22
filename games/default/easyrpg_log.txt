@@ -1,0 +1,406 @@
+[2023-04-13 23:15:10] Debug: EasyRPG Player 0.7.0 (2021-10-29) started
+[2023-04-13 23:15:10] Debug: =========================================
+[2023-04-13 23:15:10] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-04-13 23:15:10] Debug: Seeded the RNG with 1681452908.
+[2023-04-13 23:15:10] Debug: CLI: 
+[2023-04-13 23:15:10] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-04-13 23:15:10] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-04-13 23:15:10] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-04-13 23:15:10] Debug: Detected encoding: ibm-943_P15A-2003
+[2023-04-13 23:15:10] Debug: Game and Save Directory:
+[2023-04-13 23:15:10] Debug: 1: [Native] 
+[2023-04-13 23:15:10] Debug: Loading game 
+[2023-04-13 23:15:10] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-04-13 23:15:10] Debug: Using RPG2k Interpreter
+[2023-04-13 23:15:10] Debug: MP3 file (owari2 by.sakai.mp3) found
+[2023-04-13 23:15:10] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2023-04-13 23:15:10] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2023-04-13 23:15:10] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-04-13 23:15:10] Debug: Cannot find: ./ExFont
+[2023-04-13 23:15:10] Debug: Loading ExFont from RPG_RT.exe
+[2023-04-13 23:15:10] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2023-04-13 23:15:10] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:15:10] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2023-04-13 23:15:10] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2023-04-13 23:15:10] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:15:10] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2023-04-13 23:15:32] Debug: Loading Save Save01.lsd
+[2023-04-13 23:15:32] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2023-04-13 23:15:32] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:15:32] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:15:33] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:15:55] Debug: Loaded Map Map0102.lmu
+[2023-04-13 23:15:55] Debug: Tree: MAP0102 ミニゲーム < MAP0101 Y0M_minigame < MAP0010扉部屋
+[2023-04-13 23:15:55] Debug: Could not load soundfont.
+[2023-04-13 23:16:34] Debug: Event 31 exceeded execution limit
+[2023-04-13 23:17:10] Debug: Event 31 exceeded execution limit [20x]
+[2023-04-13 23:17:10] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:17:10] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:17:14] Debug: Loaded Map Map0003.lmu
+[2023-04-13 23:17:14] Debug: Tree: MAP0003現実ﾍﾞﾗﾝﾀﾞ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:17:43] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:17:43] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:17:44] Debug: Loaded Map Map0003.lmu
+[2023-04-13 23:17:44] Debug: Tree: MAP0003現実ﾍﾞﾗﾝﾀﾞ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:17:45] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:17:45] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:18:22] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:18:22] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2023-04-13 23:18:22] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2023-04-13 23:18:22] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:18:22] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2023-04-13 23:18:24] Debug: Loading Save Save01.lsd
+[2023-04-13 23:18:24] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2023-04-13 23:18:24] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:18:24] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:18:25] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:18:41] Debug: Loaded Map Map0620.lmu
+[2023-04-13 23:18:41] Debug: Tree: MAP0620 310_SR分室 < MAP0006ｻｳﾝﾄﾞﾙｰﾑ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:18:42] Debug: SetVehicleLocation: Party referenced
+[2023-04-13 23:18:42] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:18:42] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:18:42] Debug: SetVehicleLocation: Party referenced
+[2023-04-13 23:18:42] Debug: Loaded Map Map0620.lmu
+[2023-04-13 23:18:42] Debug: Tree: MAP0620 310_SR分室 < MAP0006ｻｳﾝﾄﾞﾙｰﾑ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:18:47] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-04-13 23:18:47] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192)
+[2023-04-13 23:18:51] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192) [7x]
+[2023-04-13 23:18:51] Debug: Event 2 exceeded execution limit
+[2023-04-13 23:18:51] Debug: Event 1 exceeded execution limit
+[2023-04-13 23:18:51] Debug: Event 2 exceeded execution limit
+[2023-04-13 23:18:51] Debug: Event 2 exceeded execution limit [3x]
+[2023-04-13 23:18:51] Debug: Event 1 exceeded execution limit
+[2023-04-13 23:18:51] Debug: Event 2 exceeded execution limit
+[2023-04-13 23:18:51] Debug: Event 2 exceeded execution limit [5x]
+[2023-04-13 23:18:51] Debug: Event 1 exceeded execution limit
+[2023-04-13 23:18:52] Debug: Event 2 exceeded execution limit
+[2023-04-13 23:18:52] Debug: Event 1 exceeded execution limit
+[2023-04-13 23:18:52] Debug: Event 2 exceeded execution limit
+[2023-04-13 23:18:52] Debug: Event 1 exceeded execution limit
+[2023-04-13 23:18:52] Debug: Event 2 exceeded execution limit
+[2023-04-13 23:18:52] Debug: Event 2 exceeded execution limit [2x]
+[2023-04-13 23:18:52] Debug: SetVehicleLocation: Party referenced
+[2023-04-13 23:18:52] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:18:52] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:18:52] Debug: SetVehicleLocation: Party referenced
+[2023-04-13 23:18:52] Debug: Loaded Map Map0620.lmu
+[2023-04-13 23:18:52] Debug: Tree: MAP0620 310_SR分室 < MAP0006ｻｳﾝﾄﾞﾙｰﾑ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:18:52] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192)
+[2023-04-13 23:18:54] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192) [2x]
+[2023-04-13 23:18:54] Debug: Event 1 exceeded execution limit
+[2023-04-13 23:18:54] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192)
+[2023-04-13 23:18:54] Debug: Invalid write var[0] = 0!
+[2023-04-13 23:18:54] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192)
+[2023-04-13 23:18:55] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192) [2x]
+[2023-04-13 23:18:55] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:19:00] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2023-04-13 23:19:00] Debug: Saving Screenshot screenshot_0.png
+[2023-04-13 23:19:01] Debug: Saving Screenshot screenshot_1.png
+[2023-04-13 23:19:01] Debug: Saving Screenshot screenshot_2.png
+[2023-04-13 23:19:01] Debug: Saving Screenshot screenshot_3.png
+[2023-04-13 23:19:03] Debug: SetVehicleLocation: Party referenced
+[2023-04-13 23:19:03] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:19:03] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:19:03] Debug: SetVehicleLocation: Party referenced
+[2023-04-13 23:19:03] Debug: Loaded Map Map0620.lmu
+[2023-04-13 23:19:03] Debug: Tree: MAP0620 310_SR分室 < MAP0006ｻｳﾝﾄﾞﾙｰﾑ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:19:03] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:19:10] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [2x]
+[2023-04-13 23:19:10] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-04-13 23:19:10] Debug: Image size out of bounds: FaceSet/SR_another_system_faceinfo (192x192 < 192x96 < 192x192)
+[2023-04-13 23:19:22] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:19:22] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2023-04-13 23:19:22] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2023-04-13 23:19:22] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:19:22] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2023-04-13 23:19:27] Debug: EasyRPG Player 0.7.0 (2021-10-29) started
+[2023-04-13 23:19:27] Debug: =========================================
+[2023-04-13 23:19:27] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-04-13 23:19:27] Debug: Seeded the RNG with 1681453165.
+[2023-04-13 23:19:27] Debug: CLI: 
+[2023-04-13 23:19:27] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-04-13 23:19:27] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-04-13 23:19:27] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-04-13 23:19:27] Debug: Detected encoding: ibm-943_P15A-2003
+[2023-04-13 23:19:27] Debug: Game and Save Directory:
+[2023-04-13 23:19:27] Debug: 1: [Native] 
+[2023-04-13 23:19:28] Debug: Loading game 
+[2023-04-13 23:19:28] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-04-13 23:19:28] Debug: Using RPG2k Interpreter
+[2023-04-13 23:19:28] Debug: MP3 file (owari2 by.sakai.mp3) found
+[2023-04-13 23:19:28] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2023-04-13 23:19:28] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2023-04-13 23:19:28] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-04-13 23:19:28] Debug: Cannot find: ./ExFont
+[2023-04-13 23:19:28] Debug: Loading ExFont from RPG_RT.exe
+[2023-04-13 23:19:28] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2023-04-13 23:19:28] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:19:28] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2023-04-13 23:19:28] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2023-04-13 23:19:28] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:19:28] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2023-04-13 23:19:41] Debug: Loading Save Save01.lsd
+[2023-04-13 23:19:41] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2023-04-13 23:19:41] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:19:41] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:19:42] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:20:49] Debug: Loaded Map Map0005.lmu
+[2023-04-13 23:20:49] Debug: Tree: MAP0005夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:20:55] Debug: Loaded Map Map0004.lmu
+[2023-04-13 23:20:55] Debug: Tree: MAP0004夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:20:59] Debug: Loaded Map Map0010.lmu
+[2023-04-13 23:20:59] Debug: Tree: MAP0010扉部屋
+[2023-04-13 23:20:59] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-04-13 23:21:16] Debug: Loaded Map Map0014.lmu
+[2023-04-13 23:21:16] Debug: Tree: MAP0014 ﾂﾅｷﾞ部屋4_赤街頭 < MAP0011 ﾂﾅｷﾞ部屋1_DIGI < MAP0010扉部屋
+[2023-04-13 23:21:17] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:22:22] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [4x]
+[2023-04-13 23:22:22] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:22:22] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2023-04-13 23:22:22] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2023-04-13 23:22:22] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:22:22] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2023-04-13 23:22:27] Debug: EasyRPG Player 0.7.0 (2021-10-29) started
+[2023-04-13 23:22:27] Debug: =========================================
+[2023-04-13 23:22:27] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-04-13 23:22:27] Debug: Seeded the RNG with 1681453345.
+[2023-04-13 23:22:27] Debug: CLI: 
+[2023-04-13 23:22:27] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-04-13 23:22:27] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-04-13 23:22:27] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-04-13 23:22:27] Debug: Detected encoding: ibm-943_P15A-2003
+[2023-04-13 23:22:27] Debug: Game and Save Directory:
+[2023-04-13 23:22:27] Debug: 1: [Native] 
+[2023-04-13 23:22:27] Debug: Loading game 
+[2023-04-13 23:22:27] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-04-13 23:22:27] Debug: Using RPG2k Interpreter
+[2023-04-13 23:22:27] Debug: MP3 file (owari2 by.sakai.mp3) found
+[2023-04-13 23:22:27] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2023-04-13 23:22:27] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2023-04-13 23:22:27] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-04-13 23:22:27] Debug: Cannot find: ./ExFont
+[2023-04-13 23:22:27] Debug: Loading ExFont from RPG_RT.exe
+[2023-04-13 23:22:27] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2023-04-13 23:22:27] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:22:27] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2023-04-13 23:22:27] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2023-04-13 23:22:27] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:22:27] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2023-04-13 23:22:37] Debug: Loading Save Save01.lsd
+[2023-04-13 23:22:37] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2023-04-13 23:22:37] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:22:37] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:22:38] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:22:41] Debug: Loaded Map Map0001.lmu
+[2023-04-13 23:22:41] Debug: Tree: ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:22:41] Debug: Image size out of bounds: CharSet/syujinkou_effect03 (288x256 < 288x128 < 288x256)
+[2023-04-13 23:22:41] Debug: Image size out of bounds: CharSet/syujinkou_effect03 (288x256 < 288x128 < 288x256) [4x]
+[2023-04-13 23:22:41] Debug: Image size out of bounds: CharSet/syujinkou_effect04 (288x256 < 288x128 < 288x256)
+[2023-04-13 23:22:41] Debug: Image size out of bounds: CharSet/syujinkou_effect04 (288x256 < 288x128 < 288x256) [4x]
+[2023-04-13 23:22:41] Debug: Image size out of bounds: CharSet/K_(20_Charset_32) (288x256 < 72x128 < 288x256)
+[2023-04-13 23:22:41] Debug: Image size out of bounds: CharSet/K_(20_Charset_32) (288x256 < 72x128 < 288x256) [4x]
+[2023-04-13 23:22:41] Debug: Image size out of bounds: CharSet/310_tips (288x256 < 144x128 < 288x256)
+[2023-04-13 23:22:50] Debug: Image size out of bounds: CharSet/310_tips (288x256 < 144x128 < 288x256) [8x]
+[2023-04-13 23:22:50] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:22:50] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:22:59] Debug: Image size out of bounds: Battle/system-animeSRa (480x96 < 96x96 < 480x480)
+[2023-04-13 23:23:01] Debug: Image size out of bounds: Battle/system-animeSRa (480x96 < 96x96 < 480x480) [2x]
+[2023-04-13 23:23:01] Debug: SetVehicleLocation: Party referenced
+[2023-04-13 23:23:01] Debug: Loaded Map Map0620.lmu
+[2023-04-13 23:23:01] Debug: Tree: MAP0620 310_SR分室 < MAP0006ｻｳﾝﾄﾞﾙｰﾑ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:23:01] Debug: Event 0 exceeded execution limit
+[2023-04-13 23:23:01] Debug: Event 0 exceeded execution limit [2x]
+[2023-04-13 23:23:01] Debug: Event 2 exceeded execution limit
+[2023-04-13 23:23:01] Debug: Event 2 exceeded execution limit [11x]
+[2023-04-13 23:23:01] Debug: Event 0 exceeded execution limit
+[2023-04-13 23:23:01] Debug: Event 2 exceeded execution limit
+[2023-04-13 23:23:01] Debug: SetVehicleLocation: Party referenced
+[2023-04-13 23:23:01] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:23:01] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:23:06] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:23:06] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2023-04-13 23:23:06] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2023-04-13 23:23:06] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:23:06] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2023-04-13 23:23:30] Debug: EasyRPG Player 0.7.0 (2021-10-29) started
+[2023-04-13 23:23:30] Debug: =========================================
+[2023-04-13 23:23:30] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-04-13 23:23:30] Debug: Seeded the RNG with 1681453408.
+[2023-04-13 23:23:30] Debug: CLI: C:\Users\PC\Desktop\Yume 2kki ver0.114\ゆめ2っき\pc_back.png 
+[2023-04-13 23:23:30] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-04-13 23:23:30] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-04-13 23:23:30] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-04-13 23:23:30] Debug: Detected encoding: ibm-943_P15A-2003
+[2023-04-13 23:23:30] Debug: Game and Save Directory:
+[2023-04-13 23:23:30] Debug: 1: [Native] 
+[2023-04-13 23:23:30] Debug: Loading game 
+[2023-04-13 23:23:30] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-04-13 23:23:30] Debug: Using RPG2k Interpreter
+[2023-04-13 23:23:30] Debug: MP3 file (owari2 by.sakai.mp3) found
+[2023-04-13 23:23:30] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2023-04-13 23:23:30] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2023-04-13 23:23:30] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-04-13 23:23:30] Debug: Cannot find: ./ExFont
+[2023-04-13 23:23:30] Debug: Loading ExFont from RPG_RT.exe
+[2023-04-13 23:23:30] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2023-04-13 23:23:30] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:23:30] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2023-04-13 23:23:30] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2023-04-13 23:23:30] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-13 23:23:30] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2023-04-13 23:23:54] Debug: Loading Save Save01.lsd
+[2023-04-13 23:23:54] Debug: Savegame version 0 (RPG_RT or EasyRPG Player Pre-0.6.0)
+[2023-04-13 23:23:54] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:23:54] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:23:55] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:24:04] Debug: Loaded Map Map0005.lmu
+[2023-04-13 23:24:04] Debug: Tree: MAP0005夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:24:27] Debug: Loaded Map Map0004.lmu
+[2023-04-13 23:24:27] Debug: Tree: MAP0004夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:24:33] Debug: Loaded Map Map0010.lmu
+[2023-04-13 23:24:33] Debug: Tree: MAP0010扉部屋
+[2023-04-13 23:24:33] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-04-13 23:24:43] Debug: Loaded Map Map0615.lmu
+[2023-04-13 23:24:43] Debug: Tree: MAP0615 雲_(Grow)Box out < MAP0141 kuraud slot < MAP0010扉部屋
+[2023-04-13 23:24:47] Debug: Loaded Map Map0010.lmu
+[2023-04-13 23:24:47] Debug: Tree: MAP0010扉部屋
+[2023-04-13 23:24:47] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-04-13 23:24:52] Debug: Loaded Map Map0289.lmu
+[2023-04-13 23:24:52] Debug: Tree: MAP0289 きのこ < MAP0161 oudn ハート部屋 < MAP0010扉部屋
+[2023-04-13 23:25:17] Debug: Loaded Map Map0213.lmu
+[2023-04-13 23:25:17] Debug: Tree: MAP0213　エントランス < MAP0161 oudn ハート部屋 < MAP0010扉部屋
+[2023-04-13 23:25:50] Debug: Loaded Map Map0301.lmu
+[2023-04-13 23:25:50] Debug: Tree: MAP0301 ヒトガタ < MAP0161 oudn ハート部屋 < MAP0010扉部屋
+[2023-04-13 23:26:08] Debug: Loaded Map Map0282.lmu
+[2023-04-13 23:26:08] Debug: Tree: MAP0282　工場入り口 < MAP0161 oudn ハート部屋 < MAP0010扉部屋
+[2023-04-13 23:26:08] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:26:22] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [16x]
+[2023-04-13 23:26:22] Debug: Loaded Map Map0301.lmu
+[2023-04-13 23:26:22] Debug: Tree: MAP0301 ヒトガタ < MAP0161 oudn ハート部屋 < MAP0010扉部屋
+[2023-04-13 23:26:29] Debug: Loaded Map Map0213.lmu
+[2023-04-13 23:26:29] Debug: Tree: MAP0213　エントランス < MAP0161 oudn ハート部屋 < MAP0010扉部屋
+[2023-04-13 23:26:47] Debug: Invalid write var[0] = 0!
+[2023-04-13 23:27:16] Debug: Invalid write var[0] = 0! [2x]
+[2023-04-13 23:27:16] Debug: Loaded Map Map0212.lmu
+[2023-04-13 23:27:16] Debug: Tree: MAP0212　ハート世界 < MAP0161 oudn ハート部屋 < MAP0010扉部屋
+[2023-04-13 23:27:27] Debug: Loaded Map Map0652.lmu
+[2023-04-13 23:27:27] Debug: Tree: MAP0652 ﾂﾅｷﾞ部屋10_cyber < MAP0651 GALAXY < MAP0010扉部屋
+[2023-04-13 23:27:28] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:27:42] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [4x]
+[2023-04-13 23:27:42] Debug: Loaded Map Map0809.lmu
+[2023-04-13 23:27:42] Debug: Tree: MAP0809 2i9_ｸﾘﾉｲﾃﾞｱ < MAP0806 2i9_傭豚場 < MAP1184 2i9 < MAP0801 2i9 < MAP0010扉部屋
+[2023-04-13 23:28:42] Debug: Loaded Map Map0806.lmu
+[2023-04-13 23:28:42] Debug: Tree: MAP0806 2i9_傭豚場 < MAP1184 2i9 < MAP0801 2i9 < MAP0010扉部屋
+[2023-04-13 23:30:36] Debug: Loaded Map Map0809.lmu
+[2023-04-13 23:30:36] Debug: Tree: MAP0809 2i9_ｸﾘﾉｲﾃﾞｱ < MAP0806 2i9_傭豚場 < MAP1184 2i9 < MAP0801 2i9 < MAP0010扉部屋
+[2023-04-13 23:30:42] Debug: Saving to Save02.lsd
+[2023-04-13 23:32:18] Debug: Loaded Map Map0652.lmu
+[2023-04-13 23:32:18] Debug: Tree: MAP0652 ﾂﾅｷﾞ部屋10_cyber < MAP0651 GALAXY < MAP0010扉部屋
+[2023-04-13 23:32:19] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:32:29] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [4x]
+[2023-04-13 23:32:29] Debug: Loaded Map Map0318.lmu
+[2023-04-13 23:32:29] Debug: Tree: MAP0318_20_展示 < MAP0051 20_ｶﾗｰ < MAP0010扉部屋
+[2023-04-13 23:32:47] Debug: Loaded Map Map0341.lmu
+[2023-04-13 23:32:47] Debug: Tree: MAP0341 Jekyle < MAP0010扉部屋
+[2023-04-13 23:33:01] Debug: Loaded Map Map0011.lmu
+[2023-04-13 23:33:01] Debug: Tree: MAP0011 ﾂﾅｷﾞ部屋1_DIGI < MAP0010扉部屋
+[2023-04-13 23:33:01] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:33:32] Debug: Loaded Map Map0304.lmu
+[2023-04-13 23:33:32] Debug: Tree: MAP0304　光建 < MAP0161 oudn ハート部屋 < MAP0010扉部屋
+[2023-04-13 23:34:13] Debug: Loaded Map Map0333.lmu
+[2023-04-13 23:34:13] Debug: Tree: MAP0333 内部 < MAP0161 oudn ハート部屋 < MAP0010扉部屋
+[2023-04-13 23:34:59] Debug: Loaded Map Map0321.lmu
+[2023-04-13 23:34:59] Debug: Tree: MAP0321 A < MAP0161 oudn ハート部屋 < MAP0010扉部屋
+[2023-04-13 23:35:12] Debug: Loaded Map Map0322.lmu
+[2023-04-13 23:35:12] Debug: Tree: MAP0322 B < MAP0161 oudn ハート部屋 < MAP0010扉部屋
+[2023-04-13 23:35:27] Debug: Loaded Map Map0187.lmu
+[2023-04-13 23:35:27] Debug: Tree: MAP0187 20_霧 < MAP0051 20_ｶﾗｰ < MAP0010扉部屋
+[2023-04-13 23:35:27] Debug: Invalid write var[0] = 0!
+[2023-04-13 23:42:46] Debug: Loaded Map Map0900.lmu
+[2023-04-13 23:42:46] Debug: Tree: MAP0900 ｼｽﾃﾑ用空マップ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:42:46] Debug: Can't add item to party. 0 is not a valid item ID.
+[2023-04-13 23:42:46] Debug: Can't add item to party. 0 is not a valid item ID. [2x]
+[2023-04-13 23:42:46] Debug: Loaded Map Map0002.lmu
+[2023-04-13 23:42:46] Debug: Tree: MAP0002現実部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:42:53] Debug: Loaded Map Map0005.lmu
+[2023-04-13 23:42:53] Debug: Tree: MAP0005夢ベランダ < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:42:56] Debug: Loaded Map Map0004.lmu
+[2023-04-13 23:42:56] Debug: Tree: MAP0004夢部屋 < ﾃﾞﾊﾞｯｸﾞﾙｰﾑ
+[2023-04-13 23:43:42] Debug: Loaded Map Map0010.lmu
+[2023-04-13 23:43:42] Debug: Tree: MAP0010扉部屋
+[2023-04-13 23:43:42] Debug: libpng: iCCP: known incorrect sRGB profile
+[2023-04-13 23:43:59] Debug: Loaded Map Map0031.lmu
+[2023-04-13 23:43:59] Debug: Tree: MAP0031 HAL_ワイヤーG < MAP0010扉部屋
+[2023-04-13 23:45:34] Debug: Loaded Map Map0010.lmu
+[2023-04-13 23:45:34] Debug: Tree: MAP0010扉部屋
+[2023-04-13 23:45:39] Debug: Loaded Map Map0020.lmu
+[2023-04-13 23:45:39] Debug: Tree: MAP0020 夢幻図書館 < MAP0010扉部屋
+[2023-04-13 23:45:39] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-13 23:45:39] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [4x]
+[2023-04-13 23:45:39] Debug: Could not load soundfont.
+[2023-04-14 06:15:44] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-14 06:15:44] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2023-04-14 06:15:44] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2023-04-14 06:15:44] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-14 06:15:44] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2023-04-16 23:21:52] Debug: EasyRPG Player 0.7.0 (2021-10-29) started
+[2023-04-16 23:21:52] Debug: =========================================
+[2023-04-16 23:21:52] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-04-16 23:21:52] Debug: Seeded the RNG with 1681712511.
+[2023-04-16 23:21:52] Debug: CLI: 
+[2023-04-16 23:21:52] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-04-16 23:21:52] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-04-16 23:21:52] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-04-16 23:21:52] Debug: Detected encoding: ibm-943_P15A-2003
+[2023-04-16 23:21:52] Debug: Game and Save Directory:
+[2023-04-16 23:21:52] Debug: 1: [Native] 
+[2023-04-16 23:21:52] Debug: Loading game 
+[2023-04-16 23:21:52] Debug: Game does not need RTP (FullPackageFlag=1)
+[2023-04-16 23:21:52] Debug: Using RPG2k Interpreter
+[2023-04-16 23:21:52] Debug: MP3 file (owari2 by.sakai.mp3) found
+[2023-04-16 23:21:52] Debug: RPG2k >= v1.50 / RPG2k3 >= v1.05 detected
+[2023-04-16 23:21:52] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2023-04-16 23:21:52] Debug: Patch configuration: dynrpg=false maniac=false
+[2023-04-16 23:21:52] Debug: Cannot find: ./ExFont
+[2023-04-16 23:21:52] Debug: Loading ExFont from RPG_RT.exe
+[2023-04-16 23:21:52] Debug: EXEReader: EXFONT resource found (DE 0xacfd0; 0xb03c4; len 0x2168)
+[2023-04-16 23:21:52] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-16 23:21:52] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2023-04-16 23:21:52] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2023-04-16 23:21:52] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-16 23:21:52] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
+[2023-04-16 23:23:11] Debug: Loading Save Save02.lsd
+[2023-04-16 23:23:11] Debug: Savegame version 700 (EasyRPG Player 0.7.0)
+[2023-04-16 23:23:11] Debug: Loaded Map Map0809.lmu
+[2023-04-16 23:23:11] Debug: Tree: MAP0809 2i9_ｸﾘﾉｲﾃﾞｱ < MAP0806 2i9_傭豚場 < MAP1184 2i9 < MAP0801 2i9 < MAP0010扉部屋
+[2023-04-16 23:30:11] Debug: Loaded Map Map0652.lmu
+[2023-04-16 23:30:11] Debug: Tree: MAP0652 ﾂﾅｷﾞ部屋10_cyber < MAP0651 GALAXY < MAP0010扉部屋
+[2023-04-16 23:30:12] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-16 23:30:32] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [4x]
+[2023-04-16 23:30:32] Debug: SE 吸収2 has invalid tempo 30
+[2023-04-16 23:30:32] Debug: Loaded Map Map1122.lmu
+[2023-04-16 23:30:32] Debug: Tree: MAP1122 < MAP1121 やさこてん < MAP0010扉部屋
+[2023-04-16 23:31:37] Debug: SE 吸収2 has invalid tempo 30
+[2023-04-16 23:31:38] Debug: Loaded Map Map0652.lmu
+[2023-04-16 23:31:38] Debug: Tree: MAP0652 ﾂﾅｷﾞ部屋10_cyber < MAP0651 GALAXY < MAP0010扉部屋
+[2023-04-16 23:31:38] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256)
+[2023-04-16 23:31:43] Debug: Image size out of bounds: CharSet/#null (288x256 < 1x1 < 288x256) [4x]
+[2023-04-16 23:31:43] Debug: Loaded Map Map0636.lmu
+[2023-04-16 23:31:43] Debug: Tree: MAP0636 710_そっち < MAP0061 710_紫地世界 < MAP0010扉部屋
+[2023-04-16 23:32:31] Debug: Loaded Map Map0638.lmu
+[2023-04-16 23:32:31] Debug: Tree: MAP0638 家 < MAP0061 710_紫地世界 < MAP0010扉部屋
+[2023-04-16 23:32:43] Debug: Loaded Map Map0636.lmu
+[2023-04-16 23:32:43] Debug: Tree: MAP0636 710_そっち < MAP0061 710_紫地世界 < MAP0010扉部屋
+[2023-04-16 23:33:21] Debug: Loaded Map Map0637.lmu
+[2023-04-16 23:33:21] Debug: Tree: MAP0637 710_大仏 < MAP0061 710_紫地世界 < MAP0010扉部屋
+[2023-04-16 23:33:26] Debug: Loaded Map Map0636.lmu
+[2023-04-16 23:33:26] Debug: Tree: MAP0636 710_そっち < MAP0061 710_紫地世界 < MAP0010扉部屋
+[2023-04-16 23:33:28] Debug: Loaded Map Map0637.lmu
+[2023-04-16 23:33:28] Debug: Tree: MAP0637 710_大仏 < MAP0061 710_紫地世界 < MAP0010扉部屋
+[2023-04-16 23:34:05] Debug: Loaded Map Map0064.lmu
+[2023-04-16 23:34:05] Debug: Tree: MAP0064 710_安置 < MAP0061 710_紫地世界 < MAP0010扉部屋
+[2023-04-16 23:36:41] Debug: Actor 1: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-16 23:36:41] Debug: Actor 1: Removing item 81 (of type 1) from equipment slot 4 (needs type 4)
+[2023-04-16 23:36:41] Debug: Actor 1: Removing item 82 (of type 1) from equipment slot 5 (needs type 5)
+[2023-04-16 23:36:41] Debug: Actor 5: Removing item 18 (of type 10) from equipment slot 1 (needs type 1)
+[2023-04-16 23:36:41] Debug: Actor 5: Removing item 54 (of type 1) from equipment slot 3 (needs type 3)
